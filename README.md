@@ -94,3 +94,20 @@ https://github.com/eqasim-org/ile-de-france/blob/develop/docs/population.md
 
 **All the requirements needed for this projects is stored in the [requirement.txt](environment.txt) file.**
 
+*to run it on your local computer follow the guideline with the link:*
+
+https://www.notion.so/FULL-INSTALLATION-6f0387af141c414e81bcc85d4cde95b9
+
+
+## Here are the Demos and enjoy with these  🤡
+
+### For git clone
+[Screencast from 06-14-2024 07:57:41 AM.webm](https://github.com/ZeynepRuveyda/MLOps-Kubernetes-Kubeflow/assets/72027409/f02ac4be-bb2e-47e5-befa-23f38789aee8)
+
+### For git clone & update the config.yaml
+
+[automation_gitclone&configyaml.webm](https://github.com/ZeynepRuveyda/MLOps-Kubernetes-Kubeflow/assets/72027409/edcb8d56-ba19-4ae8-b5d6-90bcf75d3456)
+
+### For the full pipeline with synthetic data creation and matsim simulation
+
+
