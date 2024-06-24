@@ -1,4 +1,4 @@
-### MLOps-Kubernetes-Kubeflow
+# MLOps-Kubernetes-Kubeflow
 Automate synthetic data creation and matsim simulation
 
 ![image](https://www.cartograf.fr/regions/nord-pas-de-calais/carte_nord_pas_de_calais_administrative.jpg)
@@ -14,7 +14,7 @@ https://github.com/eqasim-org/ile-de-france/blob/develop/docs/population.md
 
 ## 🗃️  Here is the structure of folder that you can use when you run your own code:
 
-'''bash
+```bash
 .
 ├── clone_test.yaml
 ├── code
@@ -88,6 +88,6 @@ https://github.com/eqasim-org/ile-de-france/blob/develop/docs/population.md
 └── test_pv_pvc.yaml
 
 18 directories, 52 files
-'''
+```
 
 
