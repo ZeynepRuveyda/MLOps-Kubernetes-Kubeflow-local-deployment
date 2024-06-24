@@ -89,6 +89,27 @@ https://github.com/eqasim-org/ile-de-france/blob/develop/docs/population.md
 
 18 directories, 52 files
 ```
+## Version of the tools for local installation
+
+**ubuntu** : 
+
+Distributor ID: Ubuntu
+Description:    Ubuntu 22.04.4 LTS
+Release:        22.04
+Codename:       jammy
+
+**GitVersion**: "v1.27.13+k3s1”
+
+**kubectl** : v1.27.13
+
+**kubernetes**: v1.27.13
+
+**Go version :** go1.21.9
+
+**manifests** : v1.8.0
+
+**kustomize**: v5.3.0
+
 
 ## Dependencies
 
