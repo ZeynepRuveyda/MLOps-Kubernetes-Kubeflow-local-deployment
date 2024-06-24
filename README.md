@@ -1,5 +1,5 @@
 # 🚀 MLOps-Kubernetes-Kubeflow
-## Nord-Pas-des-Calais synthetic data creation project
+## Nord-Pas-de-Calais synthetic data creation project
 
 Automate synthetic data creation and matsim simulation
 
