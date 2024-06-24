@@ -3,7 +3,7 @@ Automate synthetic data creation and matsim simulation
 
 ![image](https://www.larousse.fr/encyclopedie/data/cartes/1309236-Nord-Pas-de-Calais.HD.jpg)
 
-Source: www.cartograf.fr
+Source: www.larousse.fr
 
 The MAP2050 research project, supported by ADEME, aims to develop new operational methods and tools to help design and monitor the execution of PCAETs, in partnership with the city of Dunkirk. As part of this project, the LVMT is in charge of lot 6 relating to simulations of changes in land use and the location of the population in relation to transport.
 The aim of this project is to automate existing simulation algorithms using the necessary tools and to facilitate the user's work.
@@ -90,4 +90,7 @@ https://github.com/eqasim-org/ile-de-france/blob/develop/docs/population.md
 18 directories, 52 files
 ```
 
+## Dependencies
+
+**All the requirements needed for this projects is stored in the [requirement.txt](environment.txt) file.**
 
