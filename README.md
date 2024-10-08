@@ -135,6 +135,5 @@ https://www.notion.so/FULL-INSTALLATION-6f0387af141c414e81bcc85d4cde95b9
 
 
 
-### 3) For the full pipeline with synthetic data creation and matsim simulation
 
 
