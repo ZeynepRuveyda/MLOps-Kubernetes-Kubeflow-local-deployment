@@ -124,7 +124,7 @@ https://www.notion.so/FULL-INSTALLATION-6f0387af141c414e81bcc85d4cde95b9
 
 ## Here are the Demos and enjoy with these  🤡
 
-### 1) For git clone
+### 1) For kubeflow users
 [Screencast from 06-14-2024 07:57:41 AM.webm](https://github.com/ZeynepRuveyda/MLOps-Kubernetes-Kubeflow/assets/72027409/f02ac4be-bb2e-47e5-befa-23f38789aee8)
 
 
