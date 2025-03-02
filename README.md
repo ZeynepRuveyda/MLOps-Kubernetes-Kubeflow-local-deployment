@@ -133,6 +133,11 @@ https://www.notion.so/FULL-INSTALLATION-6f0387af141c414e81bcc85d4cde95b9
 
 [automation_gitclone&configyaml.webm](https://github.com/ZeynepRuveyda/MLOps-Kubernetes-Kubeflow/assets/72027409/edcb8d56-ba19-4ae8-b5d6-90bcf75d3456)
 
+# Reference Letter from Olivier Bonin
+[Recommandation Ozel.pdf](https://github.com/user-attachments/files/19041457/Recommandation.Ozel.pdf)
+
+
+
 
 
 
